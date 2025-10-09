@@ -100,8 +100,8 @@ def data_consistency_check(df):
 
 def main():
     # 修正路径：根据实际文件夹结构设置（脚本放在 bike/code 下）
-    raw_data_path = "../processed_data/2020_combined.csv"  # 相对路径：code文件夹 -> 上级 -> processed_data
-    cleaned_data_path = "../processed_data/2020_cleaned.csv"
+    raw_data_path = "../processed_data/2022_combined.csv"  # 清洗文件路径
+    cleaned_data_path = "../processed_data/2022_cleaned.csv" #清晰结果路径
     log_path = "../processed_data/cleaning_log.txt"  # 日志文件保存路径
 
     # 确保输出目录存在
