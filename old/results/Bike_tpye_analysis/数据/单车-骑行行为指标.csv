@@ -1,0 +1,5 @@
+rideable_type,member_casual,duration_min_mean,duration_min_median,distance_km_mean,distance_km_median
+classic_bike,casual,28.75,19.72,2.36,2.02
+classic_bike,member,14.8,10.73,1.89,1.45
+electric_bike,casual,26.91,17.45,2.58,2.19
+electric_bike,member,16.81,12.04,2.37,1.93

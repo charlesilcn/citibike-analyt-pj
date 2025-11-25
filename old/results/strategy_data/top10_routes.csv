@@ -1,0 +1,21 @@
+route,count,rideable_type
+West Drive & Prospect Park West → West Drive & Prospect Park West,11303,classic_bike
+Central Park S & 6 Ave → Central Park S & 6 Ave,6235,classic_bike
+12 Ave & W 40 St → 12 Ave & W 40 St,6222,classic_bike
+12 Ave & W 125 St → 12 Ave & W 125 St,5769,classic_bike
+Brooklyn Bridge Park - Pier 2 → Brooklyn Bridge Park - Pier 2,5396,classic_bike
+Broadway & W 60 St → Broadway & W 60 St,5320,classic_bike
+5 Ave & E 72 St → 5 Ave & E 72 St,5314,classic_bike
+12 Ave & W 40 St → West St & Chambers St,5197,classic_bike
+5 Ave & E 88 St → 5 Ave & E 88 St,5001,classic_bike
+Grand Army Plaza & Plaza St West → Grand Army Plaza & Plaza St West,4922,classic_bike
+West Drive & Prospect Park West → West Drive & Prospect Park West,1336,electric_bike
+W 169 St & Fort Washington Ave → W 169 St & Fort Washington Ave,986,electric_bike
+1 Ave & E 62 St → 1 Ave & E 68 St,668,electric_bike
+E 85 St & 3 Ave → E 85 St & 3 Ave,638,electric_bike
+S 5 Pl & S 5 St → S 5 Pl & S 5 St,632,electric_bike
+Central Park S & 6 Ave → Central Park S & 6 Ave,604,electric_bike
+7 Ave & Central Park South → 7 Ave & Central Park South,581,electric_bike
+Broadway & W 60 St → Broadway & W 60 St,578,electric_bike
+1 Ave & E 68 St → 1 Ave & E 68 St,576,electric_bike
+5 Ave & E 72 St → 5 Ave & E 72 St,540,electric_bike

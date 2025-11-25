@@ -1,0 +1,1248 @@
+﻿station_name,demand_count,supply_count,net_demand,supply_demand_ratio,gap_type
+8 Ave & W 31 St,15109,7728,7381,1.96,严重缺口
+E 10 St & Avenue A,8649,3581,5068,2.42,严重缺口
+W 43 St & 10 Ave,7718,3184,4534,2.42,严重缺口
+FDR Drive & E 35 St,11108,6688,4420,1.66,严重缺口
+Columbus Ave & W 72 St,8760,4365,4395,2.01,严重缺口
+11 Ave & W 41 St,8815,4422,4393,1.99,严重缺口
+E 13 St & Avenue A,10343,5995,4348,1.73,严重缺口
+1 Ave & E 78 St,9194,4988,4206,1.84,严重缺口
+E 2 St & Avenue B,6825,2713,4112,2.52,严重缺口
+E 6 St & Avenue B,6490,2601,3889,2.5,严重缺口
+9 Ave & W 22 St,8839,5039,3800,1.75,严重缺口
+1 Ave & E 5 St,5893,2165,3728,2.72,严重缺口
+Henry St & Grand St,6366,2656,3710,2.4,严重缺口
+Avenue C & E 18 St,5048,1411,3637,3.58,严重缺口
+E 11 St & Avenue B,5552,1935,3617,2.87,严重缺口
+St Marks Pl & 1 Ave,5884,2414,3470,2.44,严重缺口
+W 76 St & Columbus Ave,5054,1606,3448,3.15,严重缺口
+E 20 St & FDR Drive,6035,2611,3424,2.31,严重缺口
+Suffolk St & Stanton St,5698,2373,3325,2.4,严重缺口
+E 2 St & Avenue C,5355,2077,3278,2.58,严重缺口
+W 47 St & 10 Ave,7216,3941,3275,1.83,严重缺口
+E 88 St & 1 Ave,5408,2208,3200,2.45,严重缺口
+E 91 St & 2 Ave,5063,1955,3108,2.59,严重缺口
+1 Ave & E 18 St,8313,5210,3103,1.6,严重缺口
+W 64 St & Thelonious Monk Circle,5936,2847,3089,2.09,严重缺口
+Christopher St & Greenwich St,10674,7676,2998,1.39,严重缺口
+Riverside Blvd & W 67 St,5094,2177,2917,2.34,严重缺口
+W 89 St & Columbus Ave,5709,2860,2849,2.0,严重缺口
+Perry St & Bleecker St,5006,2217,2789,2.26,严重缺口
+E 2 St & Avenue A,5675,2940,2735,1.93,严重缺口
+E 11 St & 1 Ave,5347,2637,2710,2.03,严重缺口
+E 84 St & 1 Ave,4890,2227,2663,2.2,严重缺口
+E 7 St & Avenue A,6142,3506,2636,1.75,严重缺口
+Riverside Dr & W 72 St,5253,2624,2629,2.0,严重缺口
+E 6 St & Avenue D,6028,3459,2569,1.74,严重缺口
+E 81 St & York Ave,4924,2387,2537,2.06,严重缺口
+Central Park West & W 72 St,5893,3361,2532,1.75,严重缺口
+E 5 St & Avenue C,3965,1499,2466,2.65,严重缺口
+St Marks Pl & 2 Ave,5176,2783,2393,1.86,严重缺口
+E 9 St & Avenue C,4538,2162,2376,2.1,严重缺口
+Allen St & Rivington St,5550,3219,2331,1.72,严重缺口
+W 4 St & 7 Ave S,6162,3835,2327,1.61,严重缺口
+E 11 St & 2 Ave,5959,3654,2305,1.63,严重缺口
+W 22 St & 8 Ave,6413,4124,2289,1.56,严重缺口
+W 100 St & Broadway,4350,2065,2285,2.11,严重缺口
+12 Ave & W 40 St,9609,7395,2214,1.3,严重缺口
+E 4 St & 2 Ave,5588,3374,2214,1.66,严重缺口
+E 85 St & York Ave,3578,1389,2189,2.58,严重缺口
+W 53 St & 10 Ave,6837,4656,2181,1.47,严重缺口
+W 42 St & Dyer Ave,3519,1395,2124,2.52,严重缺口
+W 106 St & Central Park West,3536,1430,2106,2.47,严重缺口
+W 37 St & 10 Ave,6472,4367,2105,1.48,严重缺口
+Clinton Ave & Myrtle Ave,3218,1127,2091,2.86,严重缺口
+W 84 St & Broadway,4055,1965,2090,2.06,严重缺口
+W 49 St & 8 Ave,7000,4920,2080,1.42,严重缺口
+W 41 St & 8 Ave,7024,4977,2047,1.41,严重缺口
+9 Ave & W 45 St,6046,4050,1996,1.49,严重缺口
+Frederick Douglass Blvd & W 112 St,3555,1588,1967,2.24,严重缺口
+West End Ave & W 94 St,3486,1543,1943,2.26,严重缺口
+E 89 St & York Ave,3616,1674,1942,2.16,严重缺口
+Riverside Dr & W 82 St,3576,1655,1921,2.16,严重缺口
+West Thames St,4613,2692,1921,1.71,严重缺口
+Columbus Ave & W 95 St,5125,3226,1899,1.59,严重缺口
+Avenue D & E 3 St,3570,1674,1896,2.13,严重缺口
+Allen St & Stanton St,5024,3148,1876,1.6,严重缺口
+Allen St & Hester St,5602,3732,1870,1.5,严重缺口
+E 19 St & 3 Ave,6391,4525,1866,1.41,严重缺口
+Pike St & Monroe St,3369,1522,1847,2.21,严重缺口
+1 Ave & E 16 St,8169,6337,1832,1.29,严重缺口
+Bank St & Washington St,4532,2713,1819,1.67,严重缺口
+W 87 St & West End Ave,3904,2120,1784,1.84,严重缺口
+Cherry St,3753,1970,1783,1.91,严重缺口
+Canal St & Rutgers St,5599,3823,1776,1.46,严重缺口
+Catherine St & Monroe St,3220,1457,1763,2.21,严重缺口
+W 20 St & 8 Ave,4869,3121,1748,1.56,严重缺口
+Greenwich Ave & Charles St,4118,2378,1740,1.73,严重缺口
+Amsterdam Ave & W 82 St,4063,2334,1729,1.74,严重缺口
+E 85 St & 3 Ave,5424,3699,1725,1.47,严重缺口
+Riverside Dr & W 78 St,2954,1235,1719,2.39,严重缺口
+W 50 St & 9 Ave,4231,2512,1719,1.68,严重缺口
+Clinton St & Grand St,5708,3996,1712,1.43,严重缺口
+Central Park West & W 68 St,5132,3441,1691,1.49,严重缺口
+Bank St & Hudson St,4311,2634,1677,1.64,严重缺口
+Stagg St & Union Ave,2861,1203,1658,2.38,严重缺口
+E 81 St & 2 Ave,3789,2152,1637,1.76,严重缺口
+W 26 St & 8 Ave,6698,5075,1623,1.32,严重缺口
+Amsterdam Ave & W 73 St,5950,4333,1617,1.37,严重缺口
+W 59 St & 10 Ave,7284,5675,1609,1.28,严重缺口
+W 84 St & Columbus Ave,4231,2632,1599,1.61,严重缺口
+W 95 St & Broadway,3799,2205,1594,1.72,严重缺口
+Rivington St & Ridge St,3635,2052,1583,1.77,严重缺口
+11 Ave & W 59 St,6098,4561,1537,1.34,严重缺口
+Barrow St & Hudson St,7217,5700,1517,1.27,严重缺口
+E 82 St & East End Ave,3221,1710,1511,1.88,严重缺口
+Riverside Dr & W 104 St,2781,1278,1503,2.18,严重缺口
+Columbia St & Rivington St,3001,1502,1499,2.0,严重缺口
+Avenue D & E 8 St,3035,1541,1494,1.97,严重缺口
+Bialystoker Pl & Delancey St,2455,985,1470,2.49,严重缺口
+Nassau Ave & Russell St,2389,928,1461,2.57,严重缺口
+W 74 St & Columbus Ave,2982,1529,1453,1.95,严重缺口
+W 33 St & 7 Ave,6891,5440,1451,1.27,严重缺口
+W 45 St & 8 Ave,3891,2470,1421,1.58,严重缺口
+Central Park North & Adam Clayton Powell Blvd,4716,3311,1405,1.42,严重缺口
+Madison St & Montgomery St,2797,1402,1395,2.0,严重缺口
+W 70 St & Amsterdam Ave,4594,3213,1381,1.43,严重缺口
+S 5 Pl & S 5 St,5064,3684,1380,1.37,严重缺口
+E 89 St & 3 Ave,3091,1712,1379,1.81,严重缺口
+S 4 St & Wythe Ave,4675,3306,1369,1.41,严重缺口
+S 3 St & Bedford Ave,3082,1741,1341,1.77,严重缺口
+Kane St & Clinton St,2120,791,1329,2.68,严重缺口
+Central Park W & W 96 St,3068,1755,1313,1.75,严重缺口
+W 90 St & Amsterdam Ave,2596,1298,1298,2.0,严重缺口
+Willoughby Ave & Hall St,2281,989,1292,2.31,严重缺口
+Central Park West & W 76 St,3253,1967,1286,1.65,严重缺口
+Bedford Ave & Bergen St,2375,1091,1284,2.18,严重缺口
+Driggs Ave & N Henry St,2185,912,1273,2.4,严重缺口
+Riverside Dr & W 91 St,2621,1363,1258,1.92,严重缺口
+Washington Pl & 6 Ave,3524,2269,1255,1.55,严重缺口
+E 20 St & 2 Ave,6230,4976,1254,1.25,严重缺口
+W 56 St & 10 Ave,4716,3474,1242,1.36,严重缺口
+Stanton St & Norfolk St,3130,1891,1239,1.66,严重缺口
+W 106 St & Amsterdam Ave,2212,993,1219,2.23,严重缺口
+W 15 St & 7 Ave,6468,5255,1213,1.23,严重缺口
+W 11 St & 6 Ave,4170,2957,1213,1.41,严重缺口
+Market St & Cherry St,2087,882,1205,2.37,严重缺口
+Frederick Douglass Blvd & W 117 St,3788,2602,1186,1.46,严重缺口
+E 51 St & 1 Ave,3560,2378,1182,1.5,严重缺口
+Adelphi St & Myrtle Ave,1940,759,1181,2.56,严重缺口
+W 92 St & Broadway,2604,1426,1178,1.83,严重缺口
+Perry St & Greenwich Ave,2501,1355,1146,1.85,严重缺口
+W 100 St & Manhattan Ave,2622,1486,1136,1.76,严重缺口
+West End Ave & W 107 St,2137,1011,1126,2.11,严重缺口
+Broadway & Berry St,2555,1433,1122,1.78,严重缺口
+W 82 St & Central Park West,2362,1242,1120,1.9,严重缺口
+Classon Ave & St Marks Ave,1896,779,1117,2.43,严重缺口
+Henry St & Degraw St,2005,889,1116,2.26,严重缺口
+E 12 St & 3 Ave,3984,2870,1114,1.39,严重缺口
+West Drive & Prospect Park West,3880,2777,1103,1.4,严重缺口
+Kosciuszko St & Tompkins Ave,1521,427,1094,3.56,严重缺口
+E 12 St & Ave C,1425,351,1074,4.06,严重缺口
+Lenox Ave & W 130 St,1806,741,1065,2.44,严重缺口
+W 31 St & 7 Ave,8098,7038,1060,1.15,严重缺口
+Amsterdam Ave & W 79 St,2352,1299,1053,1.81,严重缺口
+Nassau Ave & Newell St,1849,813,1036,2.27,严重缺口
+W 54 St & 9 Ave,3023,2006,1017,1.51,严重缺口
+W 22 St & 10 Ave,6970,5959,1011,1.17,严重缺口
+Pike St & E Broadway,2869,1861,1008,1.54,严重缺口
+Carroll St & Columbia St,1434,430,1004,3.33,严重缺口
+Lewis Ave & Madison St,1513,510,1003,2.97,严重缺口
+W 104 St & Amsterdam Ave,1942,950,992,2.04,严重缺口
+West End Ave & W 78 St,1649,657,992,2.51,严重缺口
+W 46 St & 11 Ave,4887,3908,979,1.25,严重缺口
+West End Ave & W 60 St,3441,2471,970,1.39,严重缺口
+Little West St & 1 Pl,5755,4786,969,1.2,严重缺口
+Monroe St & Tompkins Ave,1650,686,964,2.41,严重缺口
+Central Park W & W 97 St,2405,1442,963,1.67,严重缺口
+Greene Ave & Throop Ave,1408,448,960,3.14,严重缺口
+E 110 St & Madison Ave,2822,1867,955,1.51,严重缺口
+Hicks St & Montague St,2029,1091,938,1.86,严重缺口
+St Johns Pl & Washington Ave,1482,550,932,2.69,严重缺口
+Putnam Ave & Throop Ave,1336,417,919,3.2,严重缺口
+46 Ave & 5 St,2665,1748,917,1.52,严重缺口
+5 Ave & 3 St,2239,1324,915,1.69,严重缺口
+E 81 St & 3 Ave,2721,1819,902,1.5,严重缺口
+E 84 St & Park Ave,2471,1570,901,1.57,严重缺口
+Lenox Ave & W 111 St,3163,2266,897,1.4,严重缺口
+Washington Park,1786,890,896,2.01,严重缺口
+Grand Ave & Bergen St,1716,823,893,2.09,严重缺口
+W 87 St & Amsterdam Ave,2464,1573,891,1.57,严重缺口
+Central Park West & W 85 St (old),1977,1089,888,1.82,严重缺口
+Emerson Pl & Myrtle Ave,1880,996,884,1.89,严重缺口
+Central Park W & W 91 St,2020,1137,883,1.78,严重缺口
+Kent Ave & S 11 St,2351,1474,877,1.59,严重缺口
+Clinton St & Union St,1570,699,871,2.25,严重缺口
+Norfolk St & Broome St,4394,3531,863,1.24,严重缺口
+Kingsland Ave & Nassau Ave,1875,1017,858,1.84,严重缺口
+Scholes St & Manhattan Ave,1975,1124,851,1.76,严重缺口
+31 Ave & 34 St,1565,718,847,2.18,严重缺口
+E 93 St & 2 Ave,2020,1180,840,1.71,严重缺口
+31 Ave & 30 St,1339,501,838,2.67,严重缺口
+Clark St & Henry St,2914,2080,834,1.4,严重缺口
+East End Ave & E 86 St,1970,1143,827,1.72,严重缺口
+Sterling Pl & Bedford Ave,1416,602,814,2.35,严重缺口
+Richardson St & N Henry St,1320,509,811,2.59,严重缺口
+Crescent St & Broadway,1522,718,804,2.12,严重缺口
+1 Ave & E 94 St,3258,2462,796,1.32,严重缺口
+2 Ave & E 104 St,1800,1007,793,1.79,严重缺口
+President St & Henry St,1377,591,786,2.33,严重缺口
+DeKalb Ave & Vanderbilt Ave,1930,1147,783,1.68,严重缺口
+Monroe St & Bedford Ave,1678,899,779,1.87,严重缺口
+E 78 St & 2 Ave,2188,1409,779,1.55,严重缺口
+Frederick Douglass Blvd & W 115 St,2070,1291,779,1.6,严重缺口
+W 15 St & 6 Ave,5636,4859,777,1.16,严重缺口
+W 42 St & 8 Ave,3597,2836,761,1.27,严重缺口
+Henry St & Atlantic Ave,2518,1763,755,1.43,严重缺口
+Avenue D & E 12 St,1420,668,752,2.13,严重缺口
+Mt Morris Park W & W 120 St,1505,769,736,1.96,严重缺口
+Congress St & Clinton St,2369,1637,732,1.45,严重缺口
+E 106 St & Lexington Ave,1515,807,708,1.88,严重缺口
+43 St & Broadway,1449,744,705,1.95,严重缺口
+E 102 St & 1 Ave,2507,1803,704,1.39,严重缺口
+Leonard St & Maujer St,1490,789,701,1.89,严重缺口
+E 118 St & 1 Ave,1286,588,698,2.19,严重缺口
+Astoria Park S & Shore Blvd,1765,1072,693,1.65,严重缺口
+Clinton St & 4 Place,1368,677,691,2.02,严重缺口
+Cathedral Pkwy & Broadway,2298,1616,682,1.42,严重缺口
+S 4 St & Rodney St,1826,1156,670,1.58,严重缺口
+Hanson Pl & Ashland Pl,4276,3613,663,1.18,严重缺口
+Engert Ave & McGuinness Blvd,857,197,660,4.35,严重缺口
+Carroll St & 6 Ave,1470,810,660,1.81,严重缺口
+Johnson St & Gold St,1846,1188,658,1.55,严重缺口
+Lexington Ave & Classon Ave,1436,778,658,1.85,严重缺口
+Underhill Ave & Lincoln Pl,1544,892,652,1.73,严重缺口
+W 107 St & Columbus Ave,1387,737,650,1.88,严重缺口
+Wyckoff St & Nevins St,1130,480,650,2.35,严重缺口
+Lewis Ave & Kosciuszko St,999,350,649,2.85,严重缺口
+Huron St & Franklin St,2009,1361,648,1.48,严重缺口
+Clermont Ave & Lafayette Ave,1179,537,642,2.2,严重缺口
+Cambridge Pl & Gates Ave,1314,674,640,1.95,严重缺口
+14 St & 5 Ave,1653,1013,640,1.63,严重缺口
+E 81 St & Park Ave,1925,1291,634,1.49,严重缺口
+Center Blvd & 48 Ave,1059,426,633,2.49,严重缺口
+E 31 St & 3 Ave,5938,5305,633,1.12,严重缺口
+Franklin Ave & St Marks Ave,1047,415,632,2.52,严重缺口
+Ditmars Blvd & 19 St,1112,481,631,2.31,严重缺口
+1 Pl & Clinton St,1302,674,628,1.93,严重缺口
+Adam Clayton Powell Blvd & W 123 St,1376,752,624,1.83,严重缺口
+Washington Ave & Greene Ave,1481,858,623,1.73,严重缺口
+Monroe St & Classon Ave,1185,562,623,2.11,严重缺口
+Carmine St & 6 Ave,6499,5877,622,1.11,严重缺口
+Newtown Ave & 23 St,955,336,619,2.84,严重缺口
+Cumberland St & Lafayette Ave,1502,896,606,1.68,严重缺口
+Central Park West & W 100 St,1630,1030,600,1.58,严重缺口
+E 25 St & 2 Ave,5572,4974,598,1.12,严重缺口
+Bergen St & Vanderbilt Ave,1705,1107,598,1.54,严重缺口
+Madison St & Clinton St,2983,2389,594,1.25,严重缺口
+28 Ave & 44 St,818,224,594,3.65,严重缺口
+37 St & 24 Ave,813,220,593,3.7,严重缺口
+W 67 St & Broadway,3503,2917,586,1.2,严重缺口
+Columbia St & Kane St,1235,650,585,1.9,严重缺口
+28 Ave & 35 St,1236,652,584,1.9,严重缺口
+Lexington Ave & E 36 St,3331,2748,583,1.21,严重缺口
+Banker St & Meserole Ave,1512,935,577,1.62,严重缺口
+Pulaski St & Marcus Garvey Blvd,883,309,574,2.86,严重缺口
+Degraw St & Hoyt St,1158,585,573,1.98,严重缺口
+Pacific St & Nevins St,1558,985,573,1.58,严重缺口
+Amsterdam Ave & W 66 St,2264,1692,572,1.34,严重缺口
+W 78 St & Amsterdam Ave,1973,1404,569,1.41,严重缺口
+E 95 St & 3 Ave,1576,1010,566,1.56,严重缺口
+Stuyvesant Walk & 1 Av Loop,807,241,566,3.35,严重缺口
+Degraw St & Smith St,1315,749,566,1.76,严重缺口
+E 58 St & 1 Ave (NW Corner),2832,2271,561,1.25,严重缺口
+Columbia St & Degraw St,1383,826,557,1.67,严重缺口
+Bedford Ave & S 9 St,1130,573,557,1.97,严重缺口
+Steinway St & 28 Ave,1605,1048,557,1.53,严重缺口
+Central Park W & W 103 St,1166,611,555,1.91,严重缺口
+E 75 St & 3 Ave,2336,1788,548,1.31,严重缺口
+E 109 St & 3 Ave,1310,764,546,1.71,严重缺口
+E 91 St & Park Ave,2200,1654,546,1.33,严重缺口
+31 Ave & Crescent St,971,426,545,2.28,严重缺口
+Grove St & Broadway,1017,472,545,2.15,严重缺口
+Kingston Ave & Herkimer St,1410,866,544,1.63,严重缺口
+Carroll St & Bond St,1362,818,544,1.67,严重缺口
+Adam Clayton Powell Blvd & W 115 St,1182,639,543,1.85,严重缺口
+Fulton St & Clermont Ave,1345,804,541,1.67,严重缺口
+Stanton St & Mangin St,2305,1773,532,1.3,严重缺口
+E 2 St & 2 Ave,3914,3388,526,1.16,严重缺口
+E 118 St & 3 Ave,1409,885,524,1.59,严重缺口
+Newton Rd & 44 St,1013,490,523,2.07,严重缺口
+Butler St & Court St,1209,686,523,1.76,严重缺口
+Underhill Ave & Pacific St,1233,710,523,1.74,严重缺口
+Greene Ave & Nostrand Ave,1112,595,517,1.87,严重缺口
+Fulton St & Waverly Ave,1890,1375,515,1.37,严重缺口
+Prospect Pl & Underhill Ave,981,468,513,2.1,严重缺口
+Lenox Ave & W 115 St,1528,1017,511,1.5,严重缺口
+Wilson Ave & Troutman St,713,205,508,3.48,严重缺口
+6 Ave & W 33 St,8313,7807,506,1.06,严重缺口
+Roosevelt Island Tramway,885,386,499,2.29,严重缺口
+Central Park West & W 102 St,721,223,498,3.23,严重缺口
+Franklin St & Dupont St,2072,1577,495,1.31,严重缺口
+Delancey St & Eldridge St,1366,872,494,1.57,严重缺口
+E 106 St & 1 Ave,1136,647,489,1.76,严重缺口
+Lafayette Ave & St James Pl,1598,1111,487,1.44,严重缺口
+McGuinness Blvd & Eagle St,1756,1273,483,1.38,严重缺口
+Graham Ave & Herbert St,827,346,481,2.39,严重缺口
+Suydam St & Knickerbocker Ave,980,502,478,1.95,严重缺口
+38 Ave & 29 St,1010,533,477,1.89,严重缺口
+E 115 St & Madison Ave,952,476,476,2.0,严重缺口
+Crescent St & 35 Ave,807,337,470,2.39,严重缺口
+E 88 St & Park Ave,2160,1696,464,1.27,严重缺口
+34 Ave & 21 St,625,163,462,3.83,严重缺口
+Dean St & Franklin Ave,1580,1125,455,1.4,严重缺口
+Lorimer St & Calyer St,1103,648,455,1.7,严重缺口
+Garfield Pl & 8 Ave,1256,805,451,1.56,严重缺口
+Motorgate,1185,735,450,1.61,严重缺口
+1 Ave & E 110 St,1773,1323,450,1.34,严重缺口
+Hancock St & Bedford Ave,1119,671,448,1.67,严重缺口
+Union St & Bedford Ave,755,308,447,2.45,严重缺口
+Carroll St & 5 Ave,1355,910,445,1.49,严重缺口
+W 13 St & 7 Ave,4700,4257,443,1.1,严重缺口
+Bushwick Ave & Powers St,1010,568,442,1.78,严重缺口
+Pierrepont St & Monroe Pl,1347,911,436,1.48,严重缺口
+Marcus Garvey Blvd & Macon St,839,406,433,2.07,严重缺口
+Sterling St & Bedford Ave,956,527,429,1.81,严重缺口
+McKibbin St & Manhattan Ave,908,481,427,1.89,严重缺口
+Willoughby Ave & Tompkins Ave,1016,592,424,1.72,严重缺口
+Carlton Ave & Dean St,1505,1083,422,1.39,严重缺口
+Greenpoint Ave & Manhattan Ave,1876,1458,418,1.29,严重缺口
+Graham Ave & Grand St,1353,935,418,1.45,严重缺口
+Adam Clayton Powell Blvd & W 132 St,828,411,417,2.01,严重缺口
+Bayard St & Leonard St,1416,1001,415,1.41,严重缺口
+14 St & 7 Ave,1320,906,414,1.46,严重缺口
+Clermont Ave & Park Ave,1143,733,410,1.56,严重缺口
+Frederick Douglass Blvd & W 129 St,901,491,410,1.84,严重缺口
+Pitt St & Stanton St,1075,665,410,1.62,严重缺口
+Crescent St & 34 Ave,854,446,408,1.91,严重缺口
+E 118 St & Madison Ave,1201,794,407,1.51,严重缺口
+E 58 St & 1 Ave (NE Corner),1307,905,402,1.44,严重缺口
+E 128 St & Madison Ave,749,352,397,2.13,严重缺口
+Franklin Ave & Empire Blvd,1360,964,396,1.41,严重缺口
+3 Ave & E 72 St,2098,1702,396,1.23,严重缺口
+Central Park West & W 85 St,1665,1269,396,1.31,严重缺口
+Columbus Ave & W 103 St,798,404,394,1.98,严重缺口
+Adam Clayton Powell Blvd & W 118 St,1182,794,388,1.49,严重缺口
+Adam Clayton Powell Blvd & W 138 St,923,536,387,1.72,严重缺口
+Marcy Ave & Lafayette Ave,1099,713,386,1.54,严重缺口
+DeKalb Ave & Franklin Ave,1234,851,383,1.45,严重缺口
+Carlton Ave & Park Ave,1141,759,382,1.5,严重缺口
+Leonard St & Boerum St,762,381,381,2.0,严重缺口
+India St & Manhattan Ave,1989,1610,379,1.24,严重缺口
+3 Ave & E 100 St,787,409,378,1.92,严重缺口
+Pacific St & Classon Ave,551,173,378,3.18,严重缺口
+5 Av & W 139 St,768,392,376,1.96,严重缺口
+Baltic St & 5 Ave,1512,1138,374,1.33,严重缺口
+Grand St & Havemeyer St,1451,1080,371,1.34,严重缺口
+Central Ave & Starr Street,595,224,371,2.66,严重缺口
+Steinway St & 23 Ave,928,558,370,1.66,严重缺口
+E 55 St & 2 Ave,4995,4625,370,1.08,严重缺口
+Lexington Ave & E 29 St,4311,3942,369,1.09,严重缺口
+Union Ave & N 12 St,3190,2823,367,1.13,严重缺口
+27 Ave & 9 St,595,229,366,2.6,严重缺口
+Meserole Ave & Manhattan Ave,1852,1488,364,1.24,严重缺口
+Wythe Ave & Metropolitan Ave,3371,3010,361,1.12,严重缺口
+Fulton St & Irving Pl,1071,720,351,1.49,严重缺口
+5 Ave & E 93 St,2299,1950,349,1.18,严重缺口
+Bedford Ave & Montgomery St,704,358,346,1.97,严重缺口
+8 Ave & W 52 St,6145,5802,343,1.06,严重缺口
+Park Pl & Franklin Ave,857,517,340,1.66,严重缺口
+Avenue D & E 10 St,869,530,339,1.64,严重缺口
+Bradhurst Ave & W 148 St,774,435,339,1.78,严重缺口
+E 103 St & Lexington Ave,1662,1324,338,1.26,严重缺口
+St Nicholas Ave & Manhattan Ave,2133,1795,338,1.19,严重缺口
+W 18 St & 9 Ave,1855,1520,335,1.22,严重缺口
+Frost St & Meeker Ave,853,518,335,1.65,严重缺口
+Lafayette Ave & Classon Ave,1553,1221,332,1.27,严重缺口
+Vernon Blvd & 31 Ave,820,489,331,1.68,严重缺口
+W 52 St & 11 Ave,4150,3820,330,1.09,严重缺口
+Jackson St & Leonard St,748,418,330,1.79,严重缺口
+Willoughby Ave & Myrtle Ave,644,316,328,2.04,严重缺口
+Center Blvd & 51 Ave,1525,1198,327,1.27,严重缺口
+6 Ave & 12 St,948,621,327,1.53,严重缺口
+Sharon St & Olive St,946,621,325,1.52,严重缺口
+Bond St & Bergen St,1297,976,321,1.33,严重缺口
+Broadway & Kosciuszko St,615,296,319,2.08,严重缺口
+Knickerbocker Ave & Hancock St,417,101,316,4.13,严重缺口
+35 St & 34 Ave,616,302,314,2.04,严重缺口
+Putnam Ave & Nostrand Ave,741,429,312,1.73,严重缺口
+DeKalb Ave & S Portland Ave,2372,2060,312,1.15,严重缺口
+Broadway & Madison St,757,446,311,1.7,严重缺口
+Riverside Dr & W 148 St,523,212,311,2.47,严重缺口
+27 St & Hunter St,1397,1087,310,1.29,严重缺口
+Driggs Ave & Lorimer St,1325,1015,310,1.31,严重缺口
+Riverside Dr & W 138 St,782,475,307,1.65,严重缺口
+Halsey St & Tompkins Ave,1047,743,304,1.41,严重缺口
+Court St & Nelson St,901,598,303,1.51,严重缺口
+Graham Ave & Withers St,1177,876,301,1.34,严重缺口
+W 113 St & Broadway,1759,1459,300,1.21,严重缺口
+Central Ave & Weirfield St,422,123,299,3.43,严重缺口
+Throop Ave & Myrtle Ave,593,297,296,2.0,严重缺口
+Lexington Ave & E 111 St,1243,947,296,1.31,严重缺口
+3 Ave & Schermerhorn St,1914,1619,295,1.18,严重缺口
+Eastern Pkwy & Franklin Ave,1635,1345,290,1.22,严重缺口
+35 Ave & 10 St,581,292,289,1.99,严重缺口
+E 114 St & 1 Ave,934,647,287,1.44,严重缺口
+Central Ave & Woodbine St,419,133,286,3.15,严重缺口
+Prospect Pl & 6 Ave,894,611,283,1.46,严重缺口
+Willoughby Ave & Walworth St,1022,739,283,1.38,严重缺口
+Van Brunt St & Wolcott St,856,573,283,1.49,严重缺口
+31 Ave & Steinway St,948,667,281,1.42,严重缺口
+35 St & Broadway,766,486,280,1.58,严重缺口
+Adam Clayton Powell Blvd & W 141 St,584,304,280,1.92,严重缺口
+E 60 St & York Ave,1942,1663,279,1.17,严重缺口
+Berkeley Pl & 6 Ave,894,616,278,1.45,严重缺口
+Sullivan St & Washington Sq,3179,2902,277,1.1,严重缺口
+Carroll St & Smith St,1440,1163,277,1.24,严重缺口
+Lincoln Pl & Classon Ave,564,287,277,1.97,严重缺口
+Broadway & Moylan Pl,1135,859,276,1.32,严重缺口
+Bushwick Ave & Linden St,486,211,275,2.3,严重缺口
+5 St & 6 Ave,748,473,275,1.58,严重缺口
+E 97 St & 3 Ave,1099,825,274,1.33,严重缺口
+Grand Army Plaza & Plaza St West,2302,2028,274,1.14,严重缺口
+Myrtle Ave & St Edwards St,1152,879,273,1.31,严重缺口
+34 St & 35 Ave,841,571,270,1.47,严重缺口
+Central Ave & Melrose St,368,99,269,3.72,严重缺口
+48 Ave & 5 St,691,423,268,1.63,严重缺口
+Crescent St & Ditmars Blvd,646,381,265,1.7,严重缺口
+Union Ave & Jackson St,988,725,263,1.36,严重缺口
+Madison Ave & E 120 St,978,716,262,1.37,严重缺口
+28 St & 36 Ave,921,659,262,1.4,严重缺口
+24 Ave & 26 St,478,218,260,2.19,严重缺口
+Douglass St & 4 Ave,1218,959,259,1.27,严重缺口
+Irving Ave & Jefferson St,678,420,258,1.61,严重缺口
+Manhattan Av & Leonard St,513,258,255,1.99,严重缺口
+Adam Clayton Powell Blvd & W 130 St,582,329,253,1.77,严重缺口
+Lewis Ave & Decatur St,792,540,252,1.47,严重缺口
+Putnam Ave & Knickerbocker Ave,386,135,251,2.86,严重缺口
+Central Ave & Himrod St,385,138,247,2.79,严重缺口
+5 Ave & W 131 St,684,438,246,1.56,严重缺口
+Lexington Ave & E 120 St,973,728,245,1.34,严重缺口
+Edgecombe Ave & W 141 St,929,684,245,1.36,严重缺口
+W 59 St & West End Ave,882,641,241,1.38,严重缺口
+Rockaway Ave & Bainbridge St,507,266,241,1.91,严重缺口
+Evergreen Ave & Noll St,636,396,240,1.61,严重缺口
+Irving Ave & Harman St,489,249,240,1.96,严重缺口
+Pleasant Ave & E 120 St,850,611,239,1.39,严重缺口
+Madison St & Forest Ave,482,246,236,1.96,严重缺口
+W 20 St & 7 Ave,5165,4929,236,1.05,严重缺口
+Broadway & Hancock St,427,191,236,2.24,严重缺口
+Rogers Ave & Sterling St,1094,859,235,1.27,严重缺口
+Dean St & Hoyt St,951,716,235,1.33,严重缺口
+E 10 St & 5 Ave,3169,2935,234,1.08,严重缺口
+10 St & 7 Ave,1159,925,234,1.25,严重缺口
+Columbia Heights & Cranberry St,773,539,234,1.43,严重缺口
+Fort Washington Ave & W 183 St,456,226,230,2.02,严重缺口
+E 132 St & Madison Ave,585,356,229,1.64,严重缺口
+George St & Wilson Ave,467,240,227,1.95,严重缺口
+Lenox Ave & W 117 St,1827,1603,224,1.14,严重缺口
+Carroll St & Washington Ave,457,233,224,1.96,严重缺口
+1 Ave & E 39 St,2988,2766,222,1.08,严重缺口
+Boerum St & Broadway,969,747,222,1.3,严重缺口
+6 Ave & 9 St,1228,1007,221,1.22,严重缺口
+Riverside Dr & W 145 St,664,444,220,1.5,严重缺口
+Edgecombe Ave & W 145 St,636,417,219,1.53,严重缺口
+Powers St & Olive St,466,250,216,1.86,严重缺口
+21 St & 36 Ave,495,280,215,1.77,严重缺口
+3 St & 7 Ave,1544,1330,214,1.16,严重缺口
+3 Ave & E 112 St,794,581,213,1.37,严重缺口
+Warren St & Court St,1144,931,213,1.23,严重缺口
+Leonard St & Nassau Ave,1663,1451,212,1.15,严重缺口
+Van Buren St & Broadway,508,297,211,1.71,严重缺口
+Crescent St & 30 Ave,1101,892,209,1.23,严重缺口
+E 23 St & 1 Ave,8800,8592,208,1.02,严重缺口
+Lenox Ave & W 144 St,464,257,207,1.81,严重缺口
+Kosciuszko St & Nostrand Ave,1021,814,207,1.25,严重缺口
+Sullivan Pl & Franklin Ave,412,208,204,1.98,严重缺口
+5 Ave & E 135 St,487,283,204,1.72,严重缺口
+Jefferson Ave & Evergreen Ave,319,117,202,2.73,严重缺口
+Halsey St & Broadway,432,231,201,1.87,严重缺口
+W 17 St & 8 Ave,5544,5343,201,1.04,严重缺口
+Stockholm St & Wilson Ave,554,354,200,1.56,严重缺口
+Carroll St & Franklin Ave,436,236,200,1.85,严重缺口
+Broadway & 12 St,557,358,199,1.56,严重缺口
+Henry St & Middagh St,1155,958,197,1.21,严重缺口
+Woodward Ave & Harman St,318,122,196,2.61,严重缺口
+Forest Ave & Summerfield St,411,218,193,1.89,严重缺口
+W 140 St & Riverside Dr,276,89,187,3.1,严重缺口
+Menahan St & Seneca Ave,300,114,186,2.63,严重缺口
+W 148 St & Amsterdam Ave,365,180,185,2.03,严重缺口
+St Nicholas Ave & W 137 St,850,666,184,1.28,严重缺口
+36 Ave & 10 St,699,516,183,1.35,严重缺口
+W 110 St & Amsterdam Ave,2319,2139,180,1.08,严重缺口
+10 St & 5 Ave,592,413,179,1.43,严重缺口
+Withers St & Kingsland Ave,547,369,178,1.48,严重缺口
+W 146 St & Broadway,454,277,177,1.64,严重缺口
+Willis Ave & Bruckner Blvd,325,150,175,2.17,严重缺口
+36 Ave & 31 St,927,752,175,1.23,严重缺口
+Suydam St & Broadway,679,504,175,1.35,严重缺口
+Park Ave & St Edwards St,593,420,173,1.41,严重缺口
+7 St & 5 Ave,738,567,171,1.3,严重缺口
+Onderdonk Ave & Dekalb Ave,229,58,171,3.95,严重缺口
+Roebling St & N 4 St,1474,1304,170,1.13,严重缺口
+30 Ave & 21 St,484,315,169,1.54,严重缺口
+9 Ave & W 28 St,4635,4466,169,1.04,严重缺口
+31 Ave & 14 St,419,253,166,1.66,严重缺口
+49 Ave & 21 St,866,700,166,1.24,严重缺口
+Sullivan Pl & Bedford Ave,311,148,163,2.1,严重缺口
+State St & Smith St,1949,1788,161,1.09,严重缺口
+Cedar St & Evergreen Ave,265,104,161,2.55,严重缺口
+Ave D & E 8 St,205,44,161,4.66,严重缺口
+Greene Ave & Grandview Ave,282,122,160,2.31,严重缺口
+Madison St & Woodward Ave,304,144,160,2.11,严重缺口
+24 Ave & 29 St,499,339,160,1.47,严重缺口
+W 145 St & Amsterdam Ave,378,218,160,1.73,严重缺口
+Halsey St & Evergreen Ave,245,85,160,2.88,严重缺口
+Menahan St & Onderdonk Ave,210,53,157,3.96,严重缺口
+Mott St & Prince St,4836,4680,156,1.03,严重缺口
+Bushwick Ave & Dekalb Ave,417,262,155,1.59,严重缺口
+19 St & 24 Ave,636,481,155,1.32,严重缺口
+12 St & 4 Ave,662,508,154,1.3,严重缺口
+E 118 St & Park Ave,555,402,153,1.38,严重缺口
+Broadway & W 122 St,677,524,153,1.29,严重缺口
+Bushwick Ave & Forrest St,451,299,152,1.51,严重缺口
+Onderdonk Ave & Gates Ave,233,83,150,2.81,严重缺口
+Concord St & Bridge St,1201,1051,150,1.14,严重缺口
+St Nicholas Ave & W 150 St,338,188,150,1.8,严重缺口
+34 Ave & 13 St,427,278,149,1.54,严重缺口
+W 129 St & Convent Ave,644,495,149,1.3,严重缺口
+Park Pl & Vanderbilt Ave,1299,1154,145,1.13,严重缺口
+W 63 St & Broadway,3967,3822,145,1.04,严重缺口
+Bushwick Ave & Harman St,413,268,145,1.54,严重缺口
+Stanhope St & Fairview Ave,256,112,144,2.29,严重缺口
+Hope St & Union Ave,1922,1781,141,1.08,严重缺口
+Morningside Ave & W 123 St,1268,1127,141,1.13,严重缺口
+Stanton St & Chrystie St,2929,2788,141,1.05,严重缺口
+Kent St & McGuinness Blvd,512,375,137,1.37,严重缺口
+5 Ave & E 88 St,4126,3990,136,1.03,严重缺口
+Hoyt St & Warren St,372,236,136,1.58,严重缺口
+Knickerbocker Ave & Halsey St,265,131,134,2.02,严重缺口
+Central Park West & W 82 St,189,56,133,3.38,严重缺口
+Amsterdam Ave & W 136 St,298,165,133,1.81,严重缺口
+Montgomery St & Franklin Ave,351,219,132,1.6,严重缺口
+Hamilton Pl & W 140 St,214,83,131,2.58,严重缺口
+Suydam St & St. Nicholas Ave,201,71,130,2.83,严重缺口
+Humboldt St & Varet St,564,438,126,1.29,严重缺口
+Melrose St & Broadway,642,517,125,1.24,严重缺口
+Fulton St & Utica Ave,1040,916,124,1.14,严重缺口
+Division Ave & Hooper St,714,591,123,1.21,严重缺口
+E 15 St & 3 Ave,5770,5648,122,1.02,严重缺口
+Plaza St West & Flatbush Ave,1948,1829,119,1.07,严重缺口
+Green St & McGuinness Blvd,441,323,118,1.37,严重缺口
+2 Ave & E 122 St,645,531,114,1.21,严重缺口
+Berkeley Pl & 7 Ave,1261,1149,112,1.1,严重缺口
+Broadway & W 153 St,198,86,112,2.3,严重缺口
+Madison Ave & E 82 St,1942,1830,112,1.06,严重缺口
+Willoughby Ave & Onderdonk Ave,201,90,111,2.23,严重缺口
+Moffat St & Bushwick,182,73,109,2.49,严重缺口
+W 144 St & Adam Clayton Powell Blvd,341,233,108,1.46,严重缺口
+Columbia St & W 9 St,316,210,106,1.5,严重缺口
+Harman St & Seneca Ave,178,74,104,2.41,严重缺口
+34 Ave & 38 St,1181,1077,104,1.1,严重缺口
+Frost St & Debevoise Ave,424,322,102,1.32,严重缺口
+Menahan St & Central Ave,284,182,102,1.56,严重缺口
+Union St & 4 Ave,1746,1645,101,1.06,严重缺口
+Hamilton Pl & W 138 St,174,74,100,2.35,严重缺口
+27 Ave & 3 St,304,205,99,1.48,严重缺口
+3 St & Prospect Park West,2096,1997,99,1.05,严重缺口
+Pioneer St & Van Brunt St,601,503,98,1.19,严重缺口
+Broadway & W 160 St,252,156,96,1.62,严重缺口
+Knickerbocker Ave & Cooper St,192,97,95,1.98,严重缺口
+Eldert St & Bushwick Ave,188,94,94,2.0,严重缺口
+Lenox Ave & W 133 St,495,401,94,1.23,严重缺口
+Atlantic Ave & Furman St,2116,2023,93,1.05,严重缺口
+Central Ave & Covert St,212,120,92,1.77,严重缺口
+Willis Ave & E 137 St,284,192,92,1.48,严重缺口
+Willis Ave & E 141 St,260,170,90,1.53,严重缺口
+Albany Ave & Fulton St,701,611,90,1.15,严重缺口
+Morris Ave & McClellan St,127,37,90,3.43,严重缺口
+Nelson Ave & W 172 St,142,58,84,2.45,严重缺口
+Menahan St & Wyckoff Ave,176,93,83,1.89,严重缺口
+Broadway & W 133 St,335,252,83,1.33,严重缺口
+Tinton Ave & E 165 St,122,39,83,3.13,严重缺口
+Amsterdam Ave & W 156 St,134,52,82,2.58,严重缺口
+W 160 St & St. Nicholas Ave,167,86,81,1.94,严重缺口
+Lefferts Pl & Franklin Ave,768,687,81,1.12,严重缺口
+E 115 St & Lexington Ave,927,847,80,1.09,严重缺口
+E 138 St & 5 Av,467,391,76,1.19,严重缺口
+St. Nicholas Ave & W 157 St,205,131,74,1.56,严重缺口
+Knickerbocker Ave & George St,506,432,74,1.17,严重缺口
+Irving Ave & Halsey St,246,172,74,1.43,严重缺口
+4 Ave & 9 St,1087,1014,73,1.07,严重缺口
+Amsterdam Ave & W 152 St,159,86,73,1.85,严重缺口
+Metropolitan Ave & Meeker Ave,1302,1230,72,1.06,严重缺口
+Bushwick Ave & McKibbin St,307,235,72,1.31,严重缺口
+E 77 St & 3 Ave,3822,3751,71,1.02,严重缺口
+Cypress Ave & Palmetto St,153,85,68,1.8,严重缺口
+Madison St & Cypress Ave,236,168,68,1.4,严重缺口
+Vernon Blvd & 47 Rd,863,796,67,1.08,严重缺口
+St. Nicholas Ave & W 155 St,198,132,66,1.5,严重缺口
+Grand Concourse & East Mount Eden Ave,131,65,66,2.02,严重缺口
+Madison St & Seneca Ave,200,135,65,1.48,严重缺口
+W 44 St & 11 Ave,128,64,64,2.0,严重缺口
+23 Ave & 27 St,336,273,63,1.23,严重缺口
+21 St & 31 Dr,594,532,62,1.12,严重缺口
+W 181 St & Riverside Dr,143,83,60,1.72,严重缺口
+Smith St & 3 St,871,811,60,1.07,严重缺口
+8 Ave & W 16 St,827,768,59,1.08,严重缺口
+W 180 St & Ft Washington Ave,239,180,59,1.33,严重缺口
+Putnam Ave & Wyckoff Ave,270,212,58,1.27,严重缺口
+Macombs Pl & W 152 St,151,93,58,1.62,严重缺口
+W 50 St & 10 Ave,95,38,57,2.5,严重缺口
+St Nicholas Ave & W 134 St,568,512,56,1.11,严重缺口
+Goble Pl & Macombs Rd,91,35,56,2.6,严重缺口
+Myrtle Ave & Marcy Ave,813,757,56,1.07,严重缺口
+Park Ave & E 162 St,134,78,56,1.72,严重缺口
+Jerome Ave & Anderson Ave,75,19,56,3.95,严重缺口
+Frederick Douglass Blvd & Harlem River Dr,84,28,56,3.0,严重缺口
+White St & Johnson Ave,194,138,56,1.41,严重缺口
+Fort Washington Ave & W 173 St,200,145,55,1.38,严重缺口
+Madison St & Evergreen Ave,150,97,53,1.55,严重缺口
+Westchester Ave & Jackson Ave,140,89,51,1.57,严重缺口
+Myrtle Ave & Grove St,144,93,51,1.55,严重缺口
+Wolcott St & Dwight St,210,160,50,1.31,轻微缺口
+Amsterdam Ave & W 131 St,231,182,49,1.27,轻微缺口
+Edgecombe Ave & W 150 St,99,50,49,1.98,轻微缺口
+Central Ave & Decatur St,135,87,48,1.55,轻微缺口
+E 39 St & 2 Ave (old),5228,5180,48,1.01,轻微缺口
+Amsterdam Ave & W 162 St,164,117,47,1.4,轻微缺口
+Amsterdam Ave & W 172 St,115,68,47,1.69,轻微缺口
+Morningside Dr & Amsterdam Ave,370,323,47,1.15,轻微缺口
+N 15 St & Wythe Ave,613,566,47,1.08,轻微缺口
+N 12 St & Bedford Ave,1519,1474,45,1.03,轻微缺口
+W 170 St & University Ave,77,33,44,2.33,轻微缺口
+21 St & Hoyt Ave S,866,822,44,1.05,轻微缺口
+E 149 St & Jackson Ave,144,101,43,1.43,轻微缺口
+W 159 St & Edgecombe Ave,66,23,43,2.87,轻微缺口
+Broadway & W 155 St,143,100,43,1.43,轻微缺口
+Forsyth St & Broome St,3646,3603,43,1.01,轻微缺口
+Stephen St & Seneca Ave,67,25,42,2.68,轻微缺口
+Prospect Park West & 8 St,1335,1293,42,1.03,轻微缺口
+Cypress Ave & George St,86,45,41,1.91,轻微缺口
+3 Ave & E 170 St,57,17,40,3.35,轻微缺口
+Irving Ave & DeKalb Ave,463,425,38,1.09,轻微缺口
+E 39 St & 2 Ave,175,137,38,1.28,轻微缺口
+St. Nicholas Terrace & Convent Ave,142,105,37,1.35,轻微缺口
+E 174 St & Walton Ave,39,2,37,19.5,轻微缺口
+Linden St & Knickerbocker Ave,143,107,36,1.34,轻微缺口
+Washington Ave & E 167 St,55,20,35,2.75,轻微缺口
+31 St & Northern Blvd,640,605,35,1.06,轻微缺口
+Edgecombe Ave & W 167 St,75,40,35,1.88,轻微缺口
+Ogden Ave & W 164 St,72,38,34,1.89,轻微缺口
+Convent Ave & W 151 St,88,54,34,1.63,轻微缺口
+5 Ave & E 73 St,167,135,32,1.24,轻微缺口
+Audobon Ave & W 179 St,51,20,31,2.55,轻微缺口
+Centre St & Seneca Ave,97,66,31,1.47,轻微缺口
+Broadway & Furman Ave,116,85,31,1.36,轻微缺口
+W 155 St & Frederick Douglass Blvd,85,54,31,1.57,轻微缺口
+Henry St & W 9 St,188,158,30,1.19,轻微缺口
+Cauldwell Ave & E 161 St,79,49,30,1.61,轻微缺口
+Southern Blvd & Avenue St. John,45,16,29,2.81,轻微缺口
+Wales Ave & E 147 St,67,38,29,1.76,轻微缺口
+Cabrini Blvd & W 177 St,91,62,29,1.47,轻微缺口
+Ogden Ave & W 165 St,78,49,29,1.59,轻微缺口
+Alexander Ave & E 134 St,93,65,28,1.43,轻微缺口
+W 171 St & St. Nicholas Ave,98,70,28,1.4,轻微缺口
+Hudson St & Reade St,2603,2576,27,1.01,轻微缺口
+31 Ave & Steinway St (temp),54,27,27,2.0,轻微缺口
+E 155 St & Courtlandt Ave,48,22,26,2.18,轻微缺口
+Bergen St & Flatbush Ave,1338,1312,26,1.02,轻微缺口
+Clinton St & Centre St,303,277,26,1.09,轻微缺口
+Walton Ave & E 171 St,56,30,26,1.87,轻微缺口
+Wyckoff St & Bond St,45,19,26,2.37,轻微缺口
+Fulton Ave & St. Paul's Pl,42,17,25,2.47,轻微缺口
+35 Ave & 37 St,643,619,24,1.04,轻微缺口
+E 144 St & Brook Ave,77,53,24,1.45,轻微缺口
+Hart St & Wyckoff Ave,162,138,24,1.17,轻微缺口
+Grant Ave & E 169 St,25,2,23,12.5,轻微缺口
+E 138 St & Cypress Ave,79,57,22,1.39,轻微缺口
+Sherman Ave & E 166 St,28,6,22,4.67,轻微缺口
+Columbia St & Lorraine St,160,139,21,1.15,轻微缺口
+Franklin Ave & Myrtle Ave,750,731,19,1.03,轻微缺口
+Brook Ave & E 148 St,87,69,18,1.26,轻微缺口
+Wadsworth Ave & W 179 St,157,139,18,1.13,轻微缺口
+Courtlandt Ave & E 157 St,31,13,18,2.38,轻微缺口
+E 133 St & Cypress Pl,24,6,18,4.0,轻微缺口
+W 133 St & 12 Ave,494,477,17,1.04,轻微缺口
+Adam Clayton Powell Blvd & W 151 St,120,103,17,1.17,轻微缺口
+Wadsworth Ave & W 175 St,101,84,17,1.2,轻微缺口
+Harlem River Dr & W 155 St,76,60,16,1.27,轻微缺口
+Grand Concourse & E 171 St,89,73,16,1.22,轻微缺口
+Southpoint Park,141,125,16,1.13,轻微缺口
+Soissons Landing,40,24,16,1.67,轻微缺口
+Grand Concourse & E 164 St,38,23,15,1.65,轻微缺口
+Lenox Ave & W 146 St,131,116,15,1.13,轻微缺口
+Old Broadway & W 133 St,41,26,15,1.58,轻微缺口
+Clinton St & Tillary St,277,262,15,1.06,轻微缺口
+Convent Ave & W 135 St,225,210,15,1.07,轻微缺口
+St Nicholas Ave & E 134 St,50,36,14,1.39,轻微缺口
+Cedar St & Myrtle Ave,224,210,14,1.07,轻微缺口
+Grand Concourse & E 166 St,27,13,14,2.08,轻微缺口
+Washington St & Barrow St,21,7,14,3.0,轻微缺口
+Eastern Pkwy & Washington Ave,713,699,14,1.02,轻微缺口
+Melrose Ave & E 154 St,46,33,13,1.39,轻微缺口
+3 Ave & E 163 St,50,37,13,1.35,轻微缺口
+E 58 St &  1 Ave (NW Corner),82,69,13,1.19,轻微缺口
+E 116 St & 2 Ave,664,651,13,1.02,轻微缺口
+E 141 St & Jackson Ave,45,33,12,1.36,轻微缺口
+E 170 St & Webster Ave,21,9,12,2.33,轻微缺口
+Anderson Ave & W 164 St,22,10,12,2.2,轻微缺口
+Amsterdam Ave & W 180 St,50,39,11,1.28,轻微缺口
+E 128 St & 3 Ave,65,54,11,1.2,轻微缺口
+Cauldwell Ave & E 158 St,27,16,11,1.69,轻微缺口
+Amsterdam Ave & W 183 St,133,123,10,1.08,轻微缺口
+W 163 St & Riverside Dr,100,90,10,1.11,轻微缺口
+Freeman St & Reverend James A Polite Ave,33,23,10,1.43,轻微缺口
+Shakespeare Ave & W 169 St,47,38,9,1.24,轻微缺口
+Boston Rd & E 167 St,16,7,9,2.29,轻微缺口
+E 174 St & Longfellow Ave,20,11,9,1.82,轻微缺口
+Knickerbocker Ave & Thames St,626,617,9,1.01,轻微缺口
+E 135 St & St Ann's Ave,52,43,9,1.21,轻微缺口
+Lexington Ave & E 24 St,77,68,9,1.13,轻微缺口
+3 Ave & E 169 St,35,27,8,1.3,轻微缺口
+Gerard Ave & E 165 St,26,18,8,1.44,轻微缺口
+Brook Ave & E 157 St,98,90,8,1.09,轻微缺口
+Thompson St & Bleecker St,25,17,8,1.47,轻微缺口
+Intervale Ave & Kelly St,24,16,8,1.5,轻微缺口
+St. Ann's Ave & E 144 St,69,62,7,1.11,轻微缺口
+Grant Ave & E 164 St,169,162,7,1.04,轻微缺口
+Gerard Ave & McClellan St,33,26,7,1.27,轻微缺口
+Dawson St & Intervale Ave,9,2,7,4.5,轻微缺口
+W 147 St & Adam Clayton Powell Blvd,274,267,7,1.03,轻微缺口
+E 167 St & Franklin Ave,21,14,7,1.5,轻微缺口
+E 163 St & Union Ave,33,26,7,1.27,轻微缺口
+Sheridan Ave & E 168 St,43,36,7,1.19,轻微缺口
+Park Ave & E 124 St,3628,3621,7,1.0,轻微缺口
+Boston Rd & Prospect Ave,9,3,6,3.0,轻微缺口
+Riverside Dr & W 153 St,39,33,6,1.18,轻微缺口
+E 141 St & St Ann's Ave,121,116,5,1.04,轻微缺口
+W 163 St & Edgecombe Ave,28,23,5,1.22,轻微缺口
+3 Ave & Franklin Ave,39,34,5,1.15,轻微缺口
+Division Av & Hooper St,5,0,5,极高需求,轻微缺口
+Concourse Village East & E 158 St,47,42,5,1.12,轻微缺口
+E 169 St & Webster Ave,58,53,5,1.09,轻微缺口
+Prospect Ave & Jennings St,8,3,5,2.67,轻微缺口
+West 135 St & Lenox Terrace Pl,5,0,5,极高需求,轻微缺口
+Washington Ave & E 163 St,19,15,4,1.27,轻微缺口
+Longfellow Ave & E 165 St,4,0,4,极高需求,轻微缺口
+E 158 St & Melrose Ave,43,39,4,1.1,轻微缺口
+Flushing Ave & Woodward Ave,208,204,4,1.02,轻微缺口
+Division St & Bowery (old),84,81,3,1.04,轻微缺口
+Union Ave & E 169 St,5,2,3,2.5,轻微缺口
+Gerard Ave & E 164 St,20,17,3,1.18,轻微缺口
+Walton Ave & E 168 St,23,20,3,1.15,轻微缺口
+E 54 St & 1 Ave,7,4,3,1.75,轻微缺口
+34th Ave & Vernon Blvd,4,2,2,2.0,轻微缺口
+34 Ave & 31 St,3,1,2,3.0,轻微缺口
+Southern Blvd & E 175 St,24,22,2,1.09,轻微缺口
+E 170 St & Clay Ave,5,3,2,1.67,轻微缺口
+Prospect Ave & E 167 St,22,20,2,1.1,轻微缺口
+Fairview Ave & Linden St,232,230,2,1.01,轻微缺口
+Westchester Ave & E 156 St,24,22,2,1.09,轻微缺口
+W 35 St & 9 Ave,104,103,1,1.01,轻微缺口
+E 163 St & Tiffany St,29,28,1,1.04,轻微缺口
+E 165 St & Jerome Ave,4,3,1,1.33,轻微缺口
+18 St & 27 Ave,3,2,1,1.5,轻微缺口
+Grand Concourse & E 161 St,17,16,1,1.06,轻微缺口
+39 St & 2 Ave - Citi Bike HQ at Industry City,1,0,1,极高需求,轻微缺口
+Fulton Ave & E 172 St,5,4,1,1.25,轻微缺口
+Mount Eden Pkwy & Eastburn Ave,8,7,1,1.14,轻微缺口
+Jerome Ave & Ogden Ave,7,6,1,1.17,轻微缺口
+St James Pl & Oliver St,1859,1859,0,1.0,轻微过剩
+21 St & 23 Ave,2,2,0,1.0,轻微过剩
+Crotona Park North & Prospect Ave,7,7,0,1.0,轻微过剩
+Lab - NYC,1,1,0,1.0,轻微过剩
+Myrtle Ave & Lewis Ave,593,593,0,1.0,轻微过剩
+Charlotte St & Boston Rd,2,2,0,1.0,轻微过剩
+3 Ave & E 174 St,2,2,0,1.0,轻微过剩
+Prototype Lab,2,2,0,1.0,轻微过剩
+Glenwood Ave,0,1,-1,0.0,轻微过剩
+Garrison Ave & Manida St,1,2,-1,0.5,轻微过剩
+Westchester Ave & Southern Blvd,3,4,-1,0.75,轻微过剩
+Wilkins Ave & Crotona Park E,10,11,-1,0.91,轻微过剩
+Southern Blvd & E 174 St,2,3,-1,0.67,轻微过剩
+Westchester Ave & Longwood Ave,51,52,-1,0.98,轻微过剩
+Harborside,0,1,-1,0.0,轻微过剩
+College Ave & E 170 St,26,27,-1,0.96,轻微过剩
+Newark Ave,0,1,-1,0.0,轻微过剩
+8 St & Astoria Blvd,0,1,-1,0.0,轻微过剩
+Hamilton Park,0,1,-1,0.0,轻微过剩
+Sands St & Jay St,0,1,-1,0.0,轻微过剩
+35 St & 23 Ave,0,1,-1,0.0,轻微过剩
+Riverview Park,0,1,-1,0.0,轻微过剩
+Boone Ave & E 172 St,9,10,-1,0.9,轻微过剩
+W 167 St & St. Nicholas Ave,0,1,-1,0.0,轻微过剩
+Morgan Tech Shop parts testing,0,1,-1,0.0,轻微过剩
+Hilltop,0,1,-1,0.0,轻微过剩
+Paulus Hook,0,1,-1,0.0,轻微过剩
+Leonard Gordon Park,0,1,-1,0.0,轻微过剩
+Division St & Bowery,2653,2655,-2,1.0,轻微过剩
+E 12 St & 4 Av,78,80,-2,0.98,轻微过剩
+Essex Light Rail,0,2,-2,0.0,轻微过剩
+Sheridan Ave & E 172 St,5,7,-2,0.71,轻微过剩
+Grand Concourse & E 156 St,35,37,-2,0.95,轻微过剩
+Columbus Dr at Exchange Pl,0,2,-2,0.0,轻微过剩
+85,0,2,-2,0.0,轻微过剩
+NYCBS Depot - RIS,0,2,-2,0.0,轻微过剩
+NYCBS DEPOT - PITT,0,3,-3,0.0,轻微过剩
+Walton Ave & E 153 St,10,13,-3,0.77,轻微过剩
+E 170 St & Webster Ave_old,9,12,-3,0.75,轻微过剩
+Hoe Ave & Jennings St,6,9,-3,0.67,轻微过剩
+Seneca Ave & Irvine St,0,3,-3,0.0,轻微过剩
+Waterloo Pl & Crotona Park East,10,13,-3,0.77,轻微过剩
+West Farms Rd & Boone Ave,9,13,-4,0.69,轻微过剩
+W 10 St & Washington St,14,18,-4,0.78,轻微过剩
+OLD Southern Blvd & E 142 St,4,8,-4,0.5,轻微过剩
+Southern Blvd & E 142 St,13,17,-4,0.76,轻微过剩
+Plaza Dr & W 170 St,18,22,-4,0.82,轻微过剩
+Ogden Ave & Merriam Ave,15,19,-4,0.79,轻微过剩
+E 156 & Brook Ave,106,110,-4,0.96,轻微过剩
+Southern Blvd & Tiffany St,30,35,-5,0.86,轻微过剩
+Bruckner Blvd & Bryant Ave,6,11,-5,0.55,轻微过剩
+Schermerhorn St & Bond St,2069,2074,-5,1.0,轻微过剩
+Heights Elevator,0,5,-5,0.0,轻微过剩
+Broadway & W 58 St,668,673,-5,0.99,轻微过剩
+Grand Concourse & E 167 St,61,66,-5,0.92,轻微过剩
+Spring St & Hudson St,18,23,-5,0.78,轻微过剩
+Jerome Ave & E 164 St,6,11,-5,0.55,轻微过剩
+Beck St & Leggett Ave,15,20,-5,0.75,轻微过剩
+Crotona Park East & E 173 St,6,11,-5,0.55,轻微过剩
+E 165 St & Clay Ave,34,39,-5,0.87,轻微过剩
+Inwood Ave & W 170 St,14,19,-5,0.74,轻微过剩
+Morgan WH station,5,11,-6,0.45,轻微过剩
+E 169 St & Fox St,22,28,-6,0.79,轻微过剩
+Sunken Meadow Comfort Station,22,28,-6,0.79,轻微过剩
+Southern Blvd & E 149 St,10,16,-6,0.62,轻微过剩
+S Portland Ave & Hanson Pl,994,1000,-6,0.99,轻微过剩
+Kiosk in a box Jersey,2,8,-6,0.25,轻微过剩
+Barry St & Tiffany St,2,8,-6,0.25,轻微过剩
+Henry St & Bay St,171,177,-6,0.97,轻微过剩
+E 167 St & Bryant Ave,5,11,-6,0.45,轻微过剩
+Frederick Douglass Blvd & W 145 St,80,87,-7,0.92,轻微过剩
+Freeman St & Southern Blvd,17,24,-7,0.71,轻微过剩
+Morgan Bike Mechanics,0,7,-7,0.0,轻微过剩
+E 165 St & Fox St,4,11,-7,0.36,轻微过剩
+E 134 St & Walnut Ave,21,28,-7,0.75,轻微过剩
+Morris Ave & E 171 St,1,8,-7,0.12,轻微过剩
+Fulton Ave & E 168 St,22,29,-7,0.76,轻微过剩
+E 142 St & 3 Ave,64,72,-8,0.89,轻微过剩
+Louis Nine Blvd & Intervale Ave,9,17,-8,0.53,轻微过剩
+University Ave & W 168 St,2,10,-8,0.2,轻微过剩
+NYCBS DEPOT - DELANCEY,0,8,-8,0.0,轻微过剩
+Hunts Point Ave & Bryant Ave,7,16,-9,0.44,轻微过剩
+2 Ave & E 125 St,617,626,-9,0.99,轻微过剩
+Webster Ave & E 166 St,15,24,-9,0.62,轻微过剩
+Gerard Ave & E 146 St,60,71,-11,0.85,轻微过剩
+Pioneer St & Richards St,232,243,-11,0.95,轻微过剩
+E 161 St & River Ave,115,126,-11,0.91,轻微过剩
+Longwood Ave & Southern Blvd,47,58,-11,0.81,轻微过剩
+E 160 St & Tinton Ave,26,38,-12,0.68,轻微过剩
+3 Ave & E 172 St,29,41,-12,0.71,轻微过剩
+Brook Ave & E 141 St,51,64,-13,0.8,轻微过剩
+Washington St & Gansevoort St,4281,4294,-13,1.0,轻微过剩
+E 167 St & Clay Ave,27,41,-14,0.66,轻微过剩
+Bergen Ave & E 152 St,29,43,-14,0.67,轻微过剩
+Franklin Ave & E 169 St,22,37,-15,0.59,轻微过剩
+Amsterdam Ave & W 175 St,72,87,-15,0.83,轻微过剩
+Picnic Point,2,18,-16,0.11,轻微过剩
+Prospect Ave & E 151 St,105,122,-17,0.86,轻微过剩
+Amsterdam Ave & W 167 St,177,195,-18,0.91,轻微过剩
+River Ave & McClellan St,9,27,-18,0.33,轻微过剩
+E 153 St & E 157 St,14,32,-18,0.44,轻微过剩
+Lincoln Ave & E 134 St,138,156,-18,0.88,轻微过剩
+E 171 St & Webster Ave,31,49,-18,0.63,轻微过剩
+E 138 St & Willow Ave,44,63,-19,0.7,轻微过剩
+5 St & 51 Ave,446,466,-20,0.96,轻微过剩
+Pier 40 X2,1,21,-20,0.05,轻微过剩
+Lafayette Ave & Hunts Point Ave,8,28,-20,0.29,轻微过剩
+11 St & 35 Ave,110,130,-20,0.85,轻微过剩
+Somers St & Broadway,61,82,-21,0.74,轻微过剩
+E 138 St & Grand Concourse,64,85,-21,0.75,轻微过剩
+Broadway & W 60 St,7620,7641,-21,1.0,轻微过剩
+Faile St & Garrison Ave,15,36,-21,0.42,轻微过剩
+Willow Ave & E 133 St,150,172,-22,0.87,轻微过剩
+Southern Blvd & E 172 St,14,37,-23,0.38,轻微过剩
+Howard St & Centre St,117,140,-23,0.84,轻微过剩
+Cadman Plaza E & Tillary St,31,54,-23,0.57,轻微过剩
+E 147 St & Bergen Ave,76,99,-23,0.77,轻微过剩
+Yankee Ferry Terminal (old),9,33,-24,0.27,轻微过剩
+Clay Ave & E 173 St,17,42,-25,0.4,轻微过剩
+E 149 St & Eagle Ave,79,104,-25,0.76,轻微过剩
+Vernon Blvd & 41 Rd,494,519,-25,0.95,轻微过剩
+Bushwick Ave & Furman Ave,92,118,-26,0.78,轻微过剩
+Washington Ave & E 174 St,38,65,-27,0.58,轻微过剩
+31 St & Broadway,1470,1497,-27,0.98,轻微过剩
+E 157 St & River Ave,21,49,-28,0.43,轻微过剩
+Hudson St & W 13 St,14,42,-28,0.33,轻微过剩
+Hancock St & Wyckoff Ave,62,91,-29,0.68,轻微过剩
+W 54 St & 11 Ave,144,173,-29,0.83,轻微过剩
+40 Ave & Crescent St,468,497,-29,0.94,轻微过剩
+E 161 St & Park Ave,18,48,-30,0.38,轻微过剩
+MacDougal St & Washington Sq,2867,2899,-32,0.99,轻微过剩
+Van Sinderen Ave & Truxton St,215,247,-32,0.87,轻微过剩
+River Ave & E 151 St,46,80,-34,0.57,轻微过剩
+Wards Meadow Comfort Station,44,78,-34,0.56,轻微过剩
+12 Ave & W 125 St,1698,1732,-34,0.98,轻微过剩
+Prospect Ave & Longwood Ave,88,123,-35,0.72,轻微过剩
+Peck Slip & Front St,244,281,-37,0.87,轻微过剩
+Morris Ave & E 153 St,173,210,-37,0.82,轻微过剩
+Court St & State St,1931,1968,-37,0.98,轻微过剩
+3 Ave & 14 St,584,622,-38,0.94,轻微过剩
+E 149 St & Park Ave,38,76,-38,0.5,轻微过剩
+3 Ave & E 71 St,1669,1708,-39,0.98,轻微过剩
+6 Ave & W 34 St,4741,4780,-39,0.99,轻微过剩
+Grand Concourse & E 161  St,83,123,-40,0.67,轻微过剩
+Grand Concourse & E 144 St,227,267,-40,0.85,轻微过剩
+Clay Ave & Claremont Pkwy,16,56,-40,0.29,轻微过剩
+8 Ave & W 33 St,8933,8976,-43,1.0,轻微过剩
+Bushwick Ave & Stagg St,219,263,-44,0.83,轻微过剩
+W 36 St & 9 Ave,612,656,-44,0.93,轻微过剩
+Concourse Village West & E 156 St,28,73,-45,0.38,轻微过剩
+3 Ave & E 174 St - Bathgate Vaccination Site,32,79,-47,0.41,轻微过剩
+Willoughby Ave & Wyckoff Ave,268,316,-48,0.85,轻微过剩
+E 150 St & Gerard Ave,47,97,-50,0.48,轻微过剩
+River Ave & E 153 St,82,134,-52,0.61,严重过剩
+5 Ave & E 126 St,829,882,-53,0.94,严重过剩
+Icahn Stadium,19,72,-53,0.26,严重过剩
+Bronx Shore Comfort Station,10,64,-54,0.16,严重过剩
+Intervale Ave & Westchester Ave,22,77,-55,0.29,严重过剩
+Metropolitan Ave & Vandervoort Ave,43,100,-57,0.43,严重过剩
+Metropolitan Ave & Bedford Ave,3100,3159,-59,0.98,严重过剩
+Courtlandt Ave & E 149 St,87,147,-60,0.59,严重过剩
+St Ann's Ave & Westchester Ave,34,94,-60,0.36,严重过剩
+E 138 St & Canal St W,95,157,-62,0.61,严重过剩
+24 St & 41 Ave,611,673,-62,0.91,严重过剩
+Duane St & Greenwich St,1774,1836,-62,0.97,严重过剩
+Brook Ave & E 138 St,100,166,-66,0.6,严重过剩
+Division Ave & Marcy Ave,275,343,-68,0.8,严重过剩
+Verona Pl & Fulton St,725,794,-69,0.91,严重过剩
+Old Slip & South St,7,77,-70,0.09,严重过剩
+Beaver St & Fayette St,575,645,-70,0.89,严重过剩
+St. Nicholas Ave & W 126 St,2052,2122,-70,0.97,严重过剩
+Rivington St & Chrystie St,2796,2867,-71,0.98,严重过剩
+Greenwich St & Hubert St,437,509,-72,0.86,严重过剩
+Kent Ave & N 7 St,4601,4674,-73,0.98,严重过剩
+Metropolitan Ave & Stewart Ave,38,111,-73,0.34,严重过剩
+Pearl St & Peck Slip,2068,2141,-73,0.97,严重过剩
+Morgan Ave & Lombardy St,293,366,-73,0.8,严重过剩
+Lexington Ave & E 128 St,181,255,-74,0.71,严重过剩
+St Mary's St & Jackson Ave,142,216,-74,0.66,严重过剩
+Devoe St & Lorimer St,1466,1542,-76,0.95,严重过剩
+2 Ave & E 96 St,3877,3954,-77,0.98,严重过剩
+Jefferson St & Cypress Ave,194,272,-78,0.71,严重过剩
+Fulton St & Rockwell Pl,65,148,-83,0.44,严重过剩
+24 St & 41 Ave (original),45,129,-84,0.35,严重过剩
+Union St & Nevins St,489,576,-87,0.85,严重过剩
+Battery Pl & Greenwich St,80,169,-89,0.47,严重过剩
+4 Ave & E 12 St,3455,3545,-90,0.97,严重过剩
+Irving Ave & Palmetto St,219,310,-91,0.71,严重过剩
+Commerce St & Van Brunt St,428,521,-93,0.82,严重过剩
+Norman St & Wyckoff Ave,225,319,-94,0.71,严重过剩
+St. Ann's Av & Bruckner Blvd,79,176,-97,0.45,严重过剩
+E 41 St & Madison Ave,50,148,-98,0.34,严重过剩
+White St & Moore St,388,486,-98,0.8,严重过剩
+Lorimer St & Broadway,358,460,-102,0.78,严重过剩
+Broadway & W 131 St,214,317,-103,0.68,严重过剩
+Broadway & W 165 St,274,378,-104,0.72,严重过剩
+W 135 St & Lenox Terrace Pl,896,1001,-105,0.9,严重过剩
+Greene Av & Myrtle Av,344,451,-107,0.76,严重过剩
+10 St & 2 Ave,248,356,-108,0.7,严重过剩
+Dwight St & Van Dyke St,136,244,-108,0.56,严重过剩
+Montrose Ave & Bushwick Ave,1148,1256,-108,0.91,严重过剩
+E 50 St & Park Ave,19,128,-109,0.15,严重过剩
+Richards St & Delavan St,210,320,-110,0.66,严重过剩
+Pier 40 Dock Station,21,144,-123,0.15,严重过剩
+Smith St & 9 St,904,1028,-124,0.88,严重过剩
+Warren St & W Broadway,161,285,-124,0.56,严重过剩
+Melrose Ave & E 150 St,207,335,-128,0.62,严重过剩
+Willoughby St & Ashland Pl,505,633,-128,0.8,严重过剩
+Walnut Ave & E 136 St,14,145,-131,0.1,严重过剩
+31 St & Hoyt Ave N,413,544,-131,0.76,严重过剩
+Lincoln Ave & E 138 St,221,353,-132,0.63,严重过剩
+E 63 St & 3 Ave,2372,2505,-133,0.95,严重过剩
+21 St & 38 Ave,158,292,-134,0.54,严重过剩
+Sigourney St & Columbia St,346,480,-134,0.72,严重过剩
+31 St & Astoria Blvd,712,848,-136,0.84,严重过剩
+Morgan Ave & Maspeth Ave,230,371,-141,0.62,严重过剩
+Morris Ave & E 142 St,105,247,-142,0.43,严重过剩
+44 Dr & Jackson Ave,1378,1522,-144,0.91,严重过剩
+Willis Ave & E 143 St,118,263,-145,0.45,严重过剩
+40 Ave & 9 St,281,428,-147,0.66,严重过剩
+7 Ave & Park Pl,2101,2252,-151,0.93,严重过剩
+Nostrand Ave & Myrtle Ave,521,674,-153,0.77,严重过剩
+Central Ave & Flushing Ave,278,432,-154,0.64,严重过剩
+E 53 St & 3 Ave,228,386,-158,0.59,严重过剩
+Amsterdam Ave & W 125 St,796,954,-158,0.83,严重过剩
+W 120 St & Claremont Ave,975,1138,-163,0.86,严重过剩
+Liberty St & Nassau St,190,354,-164,0.54,严重过剩
+Adam Clayton Powell Blvd & W 126 St,1036,1200,-164,0.86,严重过剩
+2 Ave & E 99 St,1445,1612,-167,0.9,严重过剩
+Jackson Ave & 46 Rd,520,688,-168,0.76,严重过剩
+Coffey St & Conover St,345,518,-173,0.67,严重过剩
+St James Pl & Pearl St,1079,1254,-175,0.86,严重过剩
+E 106 St & Madison Ave,809,985,-176,0.82,严重过剩
+Wilson Ave & Moffat St,146,325,-179,0.45,严重过剩
+E 44 St & 2 Ave,480,670,-190,0.72,严重过剩
+Myrtle Ave & Linden St,216,407,-191,0.53,严重过剩
+37 Ave & 35 St,519,720,-201,0.72,严重过剩
+3 Ave & Carroll St,453,656,-203,0.69,严重过剩
+3 St & Hoyt St,437,642,-205,0.68,严重过剩
+W 20 St & 10 Ave,1347,1552,-205,0.87,严重过剩
+South End Ave & Liberty St,1805,2012,-207,0.9,严重过剩
+Greenwich Ave & 8 Ave,7324,7531,-207,0.97,严重过剩
+E 149 St & Morris Ave,351,559,-208,0.63,严重过剩
+Stewart Ave & Johnson Ave,44,254,-210,0.17,严重过剩
+N 11 St & Kent Ave,700,916,-216,0.76,严重过剩
+W 35 St & Dyer Ave,3655,3871,-216,0.94,严重过剩
+West St & Liberty St,5200,5418,-218,0.96,严重过剩
+Brooklyn Bridge Park - Pier 2,776,996,-220,0.78,严重过剩
+Lexington Ave & E 127 St,319,559,-240,0.57,严重过剩
+E 123 St & Lexington Ave,456,697,-241,0.65,严重过剩
+Broadway & Whipple St,953,1202,-249,0.79,严重过剩
+Wyckoff Av & Stanhope St,519,781,-262,0.66,严重过剩
+Broadway & W 38 St,100,365,-265,0.27,严重过剩
+31 St & 23 Ave,1025,1290,-265,0.79,严重过剩
+Vernon Blvd & 10 St,448,717,-269,0.62,严重过剩
+W 116 St & Broadway,1095,1365,-270,0.8,严重过剩
+Harrison Pl & Porter Ave,134,408,-274,0.33,严重过剩
+5 St & Market St,4,283,-279,0.01,严重过剩
+10 Hudson Yards,16,304,-288,0.05,严重过剩
+Wyckoff Av & Jefferson St,219,508,-289,0.43,严重过剩
+Van Brunt St & Van Dyke St,523,820,-297,0.64,严重过剩
+Devoe St & Morgan Ave,144,448,-304,0.32,严重过剩
+Amsterdam Ave & W 119 St,524,832,-308,0.63,严重过剩
+Washington Ave & Park Ave,1699,2012,-313,0.84,严重过剩
+W 165 St & Fort Washington Ave,383,698,-315,0.55,严重过剩
+Graham Ave & Conselyea St,1779,2100,-321,0.85,严重过剩
+E 68 St & 3 Ave,1996,2325,-329,0.86,严重过剩
+Tompkins Ave & Hopkins St,440,788,-348,0.56,严重过剩
+5 Ave & E 78 St,2638,2996,-358,0.88,严重过剩
+Douglass St & 3 Ave,863,1224,-361,0.71,严重过剩
+Pleasant Ave & E 116 St,1398,1766,-368,0.79,严重过剩
+Broadway & Roebling St,1722,2091,-369,0.82,严重过剩
+Queens Plaza North & Crescent St,3650,4027,-377,0.91,严重过剩
+McKibbin St & Bogart St,381,760,-379,0.5,严重过剩
+31 St & Thomson Ave,413,793,-380,0.52,严重过剩
+Union Ave & Wallabout St,486,868,-382,0.56,严重过剩
+Calyer St & Jewel St,663,1046,-383,0.63,严重过剩
+Vesey Pl & River Terrace,5447,5833,-386,0.93,严重过剩
+Lafayette Ave & Fort Greene Pl,1512,1907,-395,0.79,严重过剩
+India St & West St,1542,1939,-397,0.8,严重过剩
+39 St & 2 Ave,303,704,-401,0.43,严重过剩
+Bedford Ave & Nassau Ave,1658,2063,-405,0.8,严重过剩
+7 St & 3 Ave,541,957,-416,0.57,严重过剩
+48 Ave & 30 Pl,187,606,-419,0.31,严重过剩
+47 Ave & Skillman Ave,95,515,-420,0.18,严重过剩
+Railroad Ave & Kay Ave,19,442,-423,0.04,严重过剩
+Waterbury St & Stagg St,179,604,-425,0.3,严重过剩
+Bergen St & Smith St,2760,3188,-428,0.87,严重过剩
+W 169 St & Fort Washington Ave,2120,2551,-431,0.83,严重过剩
+Front St & Gold St,1223,1655,-432,0.74,严重过剩
+Lenox Ave & W 126 St,1531,1966,-435,0.78,严重过剩
+John St & William St,2076,2516,-440,0.83,严重过剩
+6 St & 7 Ave,1819,2260,-441,0.8,严重过剩
+LaGuardia Pl & W 3 St,3242,3684,-442,0.88,严重过剩
+E 51 St & 2 Ave,3208,3653,-445,0.88,严重过剩
+Stagg St & Morgan Ave,126,591,-465,0.21,严重过剩
+3 St & 3 Ave,766,1239,-473,0.62,严重过剩
+Nassau St & Navy St,948,1422,-474,0.67,严重过剩
+9 St & 44 Rd,293,775,-482,0.38,严重过剩
+21 St & Queens Plaza North,527,1016,-489,0.52,严重过剩
+Pier 40 - Hudson River Park,5880,6377,-497,0.92,严重过剩
+W 38 St & 8 Ave,4230,4740,-510,0.89,严重过剩
+28 St & 41 Ave,1179,1690,-511,0.7,严重过剩
+44 Dr & 21 St,823,1335,-512,0.62,严重过剩
+6 Ave & W 45 St,149,682,-533,0.22,严重过剩
+Schermerhorn St & Court St,1280,1815,-535,0.71,严重过剩
+W 30 St & 10 Ave,3600,4140,-540,0.87,严重过剩
+E 97 St & Madison Ave,3453,4000,-547,0.86,严重过剩
+W 24 St & 7 Ave,6067,6621,-554,0.92,严重过剩
+Sands St Gate,663,1218,-555,0.54,严重过剩
+W 116 St & Amsterdam Ave,1166,1735,-569,0.67,严重过剩
+31 St & Newtown Ave,1322,1904,-582,0.69,严重过剩
+Vernon Blvd & 30 Rd,637,1222,-585,0.52,严重过剩
+11 St & 43 Ave,215,800,-585,0.27,严重过剩
+W 51 St & 6 Ave,166,755,-589,0.22,严重过剩
+47 Ave & 31 St,384,976,-592,0.39,严重过剩
+1 Ave & E 62 St,7183,7781,-598,0.92,严重过剩
+Macon St & Nostrand Ave,1250,1857,-607,0.67,严重过剩
+Cadman Plaza E & Johnson St,794,1412,-618,0.56,严重过剩
+E 67 St & Park Ave,927,1566,-639,0.59,严重过剩
+E 72 St & Park Ave,1993,2634,-641,0.76,严重过剩
+E 68 St & Madison Ave,661,1312,-651,0.5,严重过剩
+E 65 St & 2 Ave,3534,4186,-652,0.84,严重过剩
+45 Rd & 11 St,1312,1966,-654,0.67,严重过剩
+Forsyth St & Canal St,2827,3483,-656,0.81,严重过剩
+Berry St & N 8 St,1957,2617,-660,0.75,严重过剩
+21 St & 43 Ave,214,893,-679,0.24,严重过剩
+Barclay St & Church St,3158,3845,-687,0.82,严重过剩
+Maiden Ln & Pearl St,2086,2774,-688,0.75,严重过剩
+Laight St & Hudson St,744,1432,-688,0.52,严重过剩
+Harrison St & Hudson St,1159,1855,-696,0.62,严重过剩
+Cliff St & Fulton St,2795,3540,-745,0.79,严重过剩
+2 Ave & 36 St,281,1034,-753,0.27,严重过剩
+Dean St & 4 Ave,1568,2329,-761,0.67,严重过剩
+Spruce St & Nassau St,2573,3343,-770,0.77,严重过剩
+Park Ave & Marcus Garvey Blvd,595,1367,-772,0.44,严重过剩
+University Pl & E 8 St,3763,4537,-774,0.83,严重过剩
+Duffield St & Willoughby St,1488,2270,-782,0.66,严重过剩
+Mercer St & Bleecker St,3806,4590,-784,0.83,严重过剩
+E 66 St & Madison Ave,813,1601,-788,0.51,严重过剩
+Leonard St & Church St,2817,3615,-798,0.78,严重过剩
+2 Ave & E 72 St,6311,7113,-802,0.89,严重过剩
+W 13 St & 5 Ave,3033,3842,-809,0.79,严重过剩
+9 Ave & W 18 St,2707,3517,-810,0.77,严重过剩
+W Broadway & W Houston St,2073,2894,-821,0.72,严重过剩
+Watts St & Greenwich St,3041,3867,-826,0.79,严重过剩
+South St & Whitehall St,2569,3418,-849,0.75,严重过剩
+Bus Slip & State St,1278,2135,-857,0.6,严重过剩
+E 74 St & 1 Ave,5368,6226,-858,0.86,严重过剩
+E 76 St & Park Ave,3113,3979,-866,0.78,严重过剩
+Atlantic Ave & Fort Greene Pl,988,1859,-871,0.53,严重过剩
+Cadman Plaza E & Red Cross Pl,1117,1999,-882,0.56,严重过剩
+Clinton St & Joralemon St,2165,3062,-897,0.71,严重过剩
+E 25 St & 1 Ave,5471,6373,-902,0.86,严重过剩
+Willoughby St & Fleet St,1831,2767,-936,0.66,严重过剩
+Fulton St & William St,2305,3255,-950,0.71,严重过剩
+Bond St & Fulton St,1894,2865,-971,0.66,严重过剩
+3 Ave & E 62 St,2863,3847,-984,0.74,严重过剩
+Lexington Ave & E 26 St,5972,6970,-998,0.86,严重过剩
+MacDougal St & Prince St,5593,6609,-1016,0.85,严重过剩
+Bayard St & Baxter St,2432,3457,-1025,0.7,严重过剩
+Old Fulton St,1635,2671,-1036,0.61,严重过剩
+Milton St & Franklin St,2038,3079,-1041,0.66,严重过剩
+Driggs Ave & N 9 St,2160,3206,-1046,0.67,严重过剩
+E 16 St & Irving Pl,2806,3866,-1060,0.73,严重过剩
+Montague St & Clinton St,1808,2941,-1133,0.61,严重过剩
+E 39 St & Lexington Ave,2136,3270,-1134,0.65,严重过剩
+2 Ave & E 31 St,6078,7243,-1165,0.84,严重过剩
+Clinton Ave & Flushing Ave,497,1670,-1173,0.3,严重过剩
+W 20 St & 11 Ave,3439,4619,-1180,0.74,严重过剩
+Franklin St & W Broadway,1786,2967,-1181,0.6,严重过剩
+Old Slip & Front St,167,1413,-1246,0.12,严重过剩
+Carlton Ave & Flushing Ave,567,1832,-1265,0.31,严重过剩
+Madison Ave & E 26 St,899,2193,-1294,0.41,严重过剩
+Broadway & W 56 St,8699,9999,-1300,0.87,严重过剩
+5 Ave & E 72 St,4254,5574,-1320,0.76,严重过剩
+E 47 St & 1 Ave,2255,3583,-1328,0.63,严重过剩
+8 Ave & W 38 St,4077,5414,-1337,0.75,严重过剩
+7 Ave & Central Park South,4889,6235,-1346,0.78,严重过剩
+Park Pl & Church St,1523,2922,-1399,0.52,严重过剩
+Cooper Square & Astor Pl,4350,5749,-1399,0.76,严重过剩
+South St & Gouverneur Ln,4177,5597,-1420,0.75,严重过剩
+Great Jones St,4904,6337,-1433,0.77,严重过剩
+Grand St & Greene St,1324,2775,-1451,0.48,严重过剩
+Jay St & Tech Pl,1401,2918,-1517,0.48,严重过剩
+Murray St & Greenwich St,2802,4367,-1565,0.64,严重过剩
+Wall St & South St,1580,3167,-1587,0.5,严重过剩
+E 102 St & Park Ave,1036,2660,-1624,0.39,严重过剩
+N 6 St & Bedford Ave,2318,3961,-1643,0.59,严重过剩
+E 72 St & York Ave,7490,9137,-1647,0.82,严重过剩
+Water - Whitehall Plaza,757,2409,-1652,0.31,严重过剩
+W 16 St & The High Line,2569,4239,-1670,0.61,严重过剩
+E 98 St & Park Ave,901,2590,-1689,0.35,严重过剩
+Broadway & W 36 St,2149,3875,-1726,0.55,严重过剩
+1 Ave & E 30 St,5903,7635,-1732,0.77,严重过剩
+Washington Pl & Broadway,1801,3567,-1766,0.5,严重过剩
+W 25 St & 6 Ave,4571,6339,-1768,0.72,严重过剩
+W 51 St & Rockefeller Plaza,305,2094,-1789,0.15,严重过剩
+Lawrence St & Willoughby St,1769,3563,-1794,0.5,严重过剩
+Pershing Square North,15268,17064,-1796,0.89,严重过剩
+E 30 St & Park Ave S,4055,5874,-1819,0.69,严重过剩
+E 24 St & Park Ave S,2005,3894,-1889,0.51,严重过剩
+Centre St & Chambers St,2291,4184,-1893,0.55,严重过剩
+University Pl & E 14 St,5976,7885,-1909,0.76,严重过剩
+Front St & Maiden Ln,1186,3110,-1924,0.38,严重过剩
+Gansevoort St & Hudson St,3151,5077,-1926,0.62,严重过剩
+Grand St & Elizabeth St,4849,6788,-1939,0.71,严重过剩
+Vernon Blvd & 50 Ave,1498,3442,-1944,0.44,严重过剩
+10 Ave & W 28 St,5640,7601,-1961,0.74,严重过剩
+Front St & Jay St,1328,3301,-1973,0.4,严重过剩
+Madison Ave & E 99 St,2800,4778,-1978,0.59,严重过剩
+William St & Pine St,2380,4360,-1980,0.55,严重过剩
+Cleveland Pl & Spring St,4427,6411,-1984,0.69,严重过剩
+Broadway & W 41 St,6296,8284,-1988,0.76,严重过剩
+W Broadway & Spring St,2138,4138,-2000,0.52,严重过剩
+Fulton St & Adams St,1992,3993,-2001,0.5,严重过剩
+E 39 St & 3 Ave,3932,5965,-2033,0.66,严重过剩
+W 52 St & 5 Ave,751,2786,-2035,0.27,严重过剩
+Pershing Square South,5717,7809,-2092,0.73,严重过剩
+Liberty St & Broadway,2612,4729,-2117,0.55,严重过剩
+Jay St & York St,2159,4294,-2135,0.5,严重过剩
+E 43 St & 2 Ave,2708,4877,-2169,0.56,严重过剩
+11 Ave & W 27 St,4007,6181,-2174,0.65,严重过剩
+E 56 St & 3 Ave,2351,4529,-2178,0.52,严重过剩
+Lafayette St & E 8 St,5640,7822,-2182,0.72,严重过剩
+Broadway & W 53 St,3718,5926,-2208,0.63,严重过剩
+Murray St & West St,1881,4095,-2214,0.46,严重过剩
+Fulton St & Broadway,3181,5418,-2237,0.59,严重过剩
+E 41 St & Madison Ave (SW corner),2800,5066,-2266,0.55,严重过剩
+W 48 St & Rockefeller Plaza,285,2558,-2273,0.11,严重过剩
+Front St & Washington St,2004,4279,-2275,0.47,严重过剩
+Pearl St & Hanover Square,2020,4297,-2277,0.47,严重过剩
+Broad St & Bridge St,843,3121,-2278,0.27,严重过剩
+W 15 St & 10 Ave,1436,3782,-2346,0.38,严重过剩
+West St & Chambers St,8824,11192,-2368,0.79,严重过剩
+E 20 St & Park Ave,4138,6509,-2371,0.64,严重过剩
+E 33 St & 1 Ave,10675,13062,-2387,0.82,严重过剩
+Greenwich St & W Houston St,2970,5434,-2464,0.55,严重过剩
+Flushing Ave & Vanderbilt Ave,1277,3746,-2469,0.34,严重过剩
+Centre St & Worth St,972,3473,-2501,0.28,严重过剩
+W 37 St & 5 Ave,2383,4891,-2508,0.49,严重过剩
+6 Ave & Broome St,3163,5696,-2533,0.56,严重过剩
+DeKalb Ave & Hudson Ave,1582,4126,-2544,0.38,严重过剩
+W 18 St & 6 Ave,2212,4790,-2578,0.46,严重过剩
+5 Ave & E 63 St,1486,4153,-2667,0.36,严重过剩
+Lafayette St & Jersey St,3264,5938,-2674,0.55,严重过剩
+Howard St & Lafayette St,1855,4580,-2725,0.41,严重过剩
+Reade St & Broadway,1347,4092,-2745,0.33,严重过剩
+Madison Av & E 51 St,427,3195,-2768,0.13,严重过剩
+Broadway & E 14 St,5089,7861,-2772,0.65,严重过剩
+W 34 St & 11 Ave,2558,5479,-2921,0.47,严重过剩
+E 47 St & 2 Ave,3306,6231,-2925,0.53,严重过剩
+Lispenard St & Broadway,2601,5534,-2933,0.47,严重过剩
+E 45 St & 3 Ave,2438,5410,-2972,0.45,严重过剩
+Broadway & W 29 St,4767,7867,-3100,0.61,严重过剩
+E 56 St & Madison Ave,1067,4197,-3130,0.25,严重过剩
+Central Park S & 6 Ave,3871,7018,-3147,0.55,严重过剩
+W 26 St & 10 Ave,3435,6611,-3176,0.52,严重过剩
+Dock 72 Way & Market St,353,3532,-3179,0.1,严重过剩
+Broadway & W 37 St,1380,4577,-3197,0.3,严重过剩
+E 32 St & Park Ave,6923,10131,-3208,0.68,严重过剩
+6 Ave & Canal St,1493,4712,-3219,0.32,严重过剩
+E 16 St & 5 Ave,3578,6815,-3237,0.53,严重过剩
+1 Ave & E 44 St,3197,6553,-3356,0.49,严重过剩
+Mercer St & Spring St,1264,4647,-3383,0.27,严重过剩
+Broadway & W 51 St,3375,6973,-3598,0.48,严重过剩
+E 58 St & 3 Ave,3933,7646,-3713,0.51,严重过剩
+W 42 St & 6 Ave,2547,6279,-3732,0.41,严重过剩
+W 45 St & 6 Ave,1642,5387,-3745,0.3,严重过剩
+5 Ave & E 103 St,2367,6135,-3768,0.39,严重过剩
+Broadway & W 49 St,5012,8800,-3788,0.57,严重过剩
+E 33 St & 5 Ave,3156,6952,-3796,0.45,严重过剩
+E 59 St & Madison Ave,1898,6083,-4185,0.31,严重过剩
+5 Ave & E 29 St,3858,8171,-4313,0.47,严重过剩
+E 43 St & 5 Ave,2981,7352,-4371,0.41,严重过剩
+E 48 St & 3 Ave,1701,6092,-4391,0.28,严重过剩
+W 27 St & 7 Ave,4975,9370,-4395,0.53,严重过剩
+W 21 St & 6 Ave,7562,12069,-4507,0.63,严重过剩
+Broadway & W  38 St,3033,7647,-4614,0.4,严重过剩
+W 40 St & 5 Ave,1719,6499,-4780,0.26,严重过剩
+E 58 St & Madison Ave,1053,5849,-4796,0.18,严重过剩
+E 51 St & Lexington Ave,1453,6413,-4960,0.23,严重过剩
+W 47 St & 6 Ave,612,5626,-5014,0.11,严重过剩
+Grand Army Plaza & Central Park S,2504,7874,-5370,0.32,严重过剩
+E 48 St & 5 Ave,3056,8494,-5438,0.36,严重过剩
+E 17 St & Broadway,6742,12504,-5762,0.54,严重过剩
+W 55 St & 6 Ave,3059,8849,-5790,0.35,严重过剩
+Broadway & W 25 St,4495,10377,-5882,0.43,严重过剩
+Broadway & Battery Pl,2372,8505,-6133,0.28,严重过剩
+E 53 St & Madison Ave,1791,8006,-6215,0.22,严重过剩
+W 44 St & 5 Ave,1985,8258,-6273,0.24,严重过剩
+E 53 St & Lexington Ave,3033,9912,-6879,0.31,严重过剩
+North Moore St & Greenwich St,2991,10178,-7187,0.29,严重过剩
+E 27 St & 1 Ave,8465,15882,-7417,0.53,严重过剩
+W 52 St & 6 Ave,2170,10248,-8078,0.21,严重过剩
+Broadway & E 22 St,6146,14709,-8563,0.42,严重过剩
+1 Ave & E 68 St,14874,25574,-10700,0.58,严重过剩
+E 47 St & Park Ave,5171,17260,-12089,0.3,严重过剩

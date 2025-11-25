@@ -1,0 +1,13 @@
+=== Rush Hour Identification Results ===
+
+1. Overall Peak Hours
+   Weekdays: Morning Peak 7:00-9:00, Evening Peak 17:00-19:00
+   Weekends: Peak 10:00-11:00, Peak 12:00-13:00, Peak 14:00-15:00, Peak 16:00-17:00, Peak 18:00-18:00 (Ratio: 64.1%)
+
+2. Peak Intensity by User Type (percentage of daily rides)
+   Member-Weekday: 82.0%; Member-Weekend: 65.2%
+   Casual-Weekday: 76.8%; Casual-Weekend: 61.7%
+
+3. Peak Intensity by Area Type (percentage of daily rides)
+   Commercial-Weekday: 81.0%; Commercial-Weekend: 63.8%
+   Residential-Weekday: 80.7%; Residential-Weekend: 66.7%
